@@ -7,7 +7,7 @@
 - 1 Switch
 - 1 Server (Active Directory)
   - DHCP, DNS
-- 4 End Devices
+- 1 End Device Client
 
 ## Project Description
 The goal of this project is to demonstrate ability to perform network configurations on a small scale such as a home lab, providing connectivity between all the users and users being a part of one domain controller. To complete this mini project I will be using GNS3 to create the network topology and configure network devices, and Oracle VirtualBox to configure and run virtual machines specifically for the server and end users. 
