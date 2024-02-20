@@ -18,7 +18,7 @@ The goal of this project is to demonstrate ability to perform network configurat
 First step is to get our virtual machines ready. This will include needing the Windows Server 2022 image file, a Windows 11 image file, and for ease of creating the project, a GNS3 image
 -  Windows Server iso link: https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022
 -  Windows 10 workstation iso: https://www.microsoft.com/en-us/software-download/windows10
--  GNS3 VM: https://gns3.com/software/download-vm  
+-  GNS3 VM: https://gns3.com/software/download-vm \
 This description file is not targeted to help configure a virtual machine since it also differs what specs you will give your virtual machine, so I will leave links here on how to set up your virtual machine if it is your first time.
 - INSTALL GNS3 VM: https://www.youtube.com/watch?v=8VQ8eTmMtjQ&t=226s
 - INSTALL WINDOWS SERVER on VM: https://www.youtube.com/watch?v=oGFJ1X7o0S8
