@@ -24,4 +24,4 @@ First step is to get our virtual machines ready. This will include needing the W
 - INSTALL WINDOWS SERVER on VM: https://www.youtube.com/watch?v=oGFJ1X7o0S8
 - INSTALL WINDOWS 10 WORKSTATION on VM: https://www.youtube.com/watch?v=sBzL_zoYt6o
 
-### 
+### Import To GNS3
