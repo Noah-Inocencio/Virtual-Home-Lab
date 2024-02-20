@@ -24,7 +24,6 @@ First step is to get our virtual machines ready. This will include needing the W
 - INSTALL WINDOWS SERVER on VM: https://www.youtube.com/watch?v=oGFJ1X7o0S8
 - INSTALL WINDOWS 10 WORKSTATION on VM: https://www.youtube.com/watch?v=sBzL_zoYt6o
 
-\
-* Client VM should have this network configuration however, it will connect to the INTERNAL network and obtain an IP address from the Windows 2022 Server Active Directory we will set up in the topology
+Client VM should have this network configuration however, it will connect to the INTERNAL network and obtain an IP address from the Windows 2022 Server Active Directory we will set up in the topology
 
 ### Import To GNS3
