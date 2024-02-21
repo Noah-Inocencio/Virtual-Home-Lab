@@ -3,7 +3,6 @@
 
 ## Requirements
 - 1 Router
-- 1 Firewall
 - 1 Switch
 - 1 Server (Active Directory)
   - DHCP, DNS
