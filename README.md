@@ -31,3 +31,4 @@ Once the virtual machines are created, it is time to open up GNS3 and create the
 This simple lab will also have a simple network topology as followed by the below image...
 ![image](https://github.com/Noah-Inocencio/Virtual-Home-Lab/assets/133866909/2d3e588f-8ec7-4b18-8d06-06dc5b005659)
 
+![image](https://github.com/Noah-Inocencio/Virtual-Home-Lab/assets/133866909/59b7913b-ef54-48f9-b60f-1f120abfdb8c)
