@@ -1,4 +1,4 @@
-# Virtual Home Lab Network
+# SOHO Network
 -- Networking project --
 
 ## Requirements
@@ -6,10 +6,10 @@
 - 1 Switch
 - 1 Server (Active Directory)
   - DHCP, DNS
-- 1 End Device Client
+- 2 End Device Clients
 
 ## Project Description
-The goal of this project is to demonstrate ability to perform network configurations on a small scale such as a home lab, providing connectivity between all the users and users being a part of one domain controller. To complete this mini project I will be using GNS3 to create the network topology and configure network devices, and Oracle VirtualBox to configure and run virtual machines specifically for the server and end users. 
+The goal of this project is to demonstrate ability to perform network configurations on a small scale such as a home lab, providing connectivity between all the users and users being a part of one domain controller. To complete this mini project I will be using GNS3 to create the network topology and configure network devices, and Oracle VirtualBox to configure and run virtual machines, specifically for the server and end users. 
 
 ## Outline
 ### Configure Virtual Machines
@@ -24,4 +24,9 @@ First step is to get our virtual machines ready. This will include needing the W
 - INSTALL WINDOWS 10 WORKSTATION on VM: https://www.youtube.com/watch?v=sBzL_zoYt6o
 
 ### Import To GNS3
-Once the virtual machines are created, it is time to open up GNS3 and create the virtual machines as a new template. 
+Once the virtual machines are created, it is time to open up GNS3 and create the virtual machines as a new template. When creating a new template, if you used Oracle Virtualbox like me, open up Oracle VirtualBox VMs and search for your windows clients and servers. Configure each of these templates in the 'Network' tab and allow GNS3 to use any configured VirtualBox adapter' 
+![image](https://github.com/Noah-Inocencio/Virtual-Home-Lab/assets/133866909/7e1ef19c-134d-4c3d-97c9-30824b0f6546)
+
+### Create topology
+This simple lab will also have a simple network topology as followed by the below image...
+![image](https://github.com/Noah-Inocencio/Virtual-Home-Lab/assets/133866909/2d3e588f-8ec7-4b18-8d06-06dc5b005659)
